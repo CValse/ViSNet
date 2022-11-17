@@ -348,3 +348,17 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# datasets
+ogb2022-dataset/
+
+# Logs
+ogb2022-logs/
+
+# results
+results/
+
+# build
+build/
+algos.c
+algos.*.so
