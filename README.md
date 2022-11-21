@@ -1,4 +1,5 @@
-# The X Place Solution of OGB Large-Scale Challenge @ NeurIPS 2022 Graph Regression Task
+# An ensemble of VisNet, Transformer-M, and pretraining models for molecular property prediction in OGB Large-Scale Challenge @ NeurIPS 2022
+(The 2nd Place Solution of OGB LSC @ NeurIPS 2022 PCQM4Mv2 Track)
 
 ## Overview
 This is the official repository for the solution of ***ViSNet Team*** for OGB Large-Scale Challenge @ NeurIPS 2022 Graph Regression Task.
